@@ -2,6 +2,18 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.1.
 
+# Challenge instructions:
+
+The aim of this task is to create a single page where user enters any number which will be prettified according to the following format
+
+n<1000 = As it is
+
+100,000>n>1000 = 1k, 2k, 9.8k, 99.1k … etc
+
+1,000,000,000 >n> 100,000 = 0.1 m, 40.4 m … etc
+
+n> 1,000,000,000 = Error message (Beyond Scope)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
