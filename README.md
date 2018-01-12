@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Challenge instructions:
 
-The aim of this task is to create a single page where user enters any number which will be prettified according to the following format
+The aim of this task is to create a single page where user enters any number which will be prettified according to the following format:
 
 n<1000 = As it is
 
